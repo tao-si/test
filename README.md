@@ -1,3 +1,5 @@
+<script src="https://amp.ai/libs/4d9945577a5369cd.js"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tao-si/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
